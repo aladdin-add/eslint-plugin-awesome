@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint t.js"
+  },
+  "keywords": ["eslint", "eslint-plugin"],
+  "author": "weiran",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}

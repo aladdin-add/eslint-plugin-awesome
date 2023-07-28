@@ -1,0 +1,2 @@
+var o = { };
+function foo(){ }
